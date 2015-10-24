@@ -1,0 +1,6 @@
+c:\users\sam.sam11-pc\documents\visual studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\bin\Debug\StackExerciseTemp.exe.config
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\bin\Debug\StackExerciseTemp.exe
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\bin\Debug\StackExerciseTemp.pdb
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\obj\Debug\StackExerciseTemp.csprojResolveAssemblyReference.cache
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\obj\Debug\StackExerciseTemp.exe
+C:\Users\Sam.Sam11-PC\Documents\Visual Studio 2015\Projects\StackExerciseTemp\StackExerciseTemp\obj\Debug\StackExerciseTemp.pdb
